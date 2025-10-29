@@ -3,7 +3,8 @@
 A Java implementation of the classic FloodIt puzzle game where players try to flood the entire board with the same color in as few moves as possible.
 
 
-![Screen Recording Oct 29 2025 (1)](https://github.com/user-attachments/assets/b173d2a2-7e95-4b10-940e-965809c50df2)
+<img src="https://github.com/user-attachments/assets/b173d2a2-7e95-4b10-940e-965809c50df2" style="width:300px; border-radius:10px;">
+
 
 ## Language & Libraries
 
